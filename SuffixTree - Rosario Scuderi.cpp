@@ -1,5 +1,4 @@
 /*****************************************************
-    Progetto Algoritmi E Laboratorio 2020/2021
     Algoritmo naive di costruzione di un SuffixTree 
     Rosario Scuderi
 *****************************************************/
